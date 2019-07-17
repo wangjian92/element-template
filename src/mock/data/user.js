@@ -2,9 +2,9 @@ import Mock from 'mockjs'
 const LoginUsers = [
   {
     id: 1,
-    username: 'admin',
+    username: 'csii',
     password: '123456',
-    avatar: 'https://raw.githubusercontent.com/taylorchen709/markdown-images/master/vueadmin/user.png',
+    avatar: 'http://118.144.87.37:12380/uploads/-/system/group/avatar/181/vx_log.jpg?width=64',
     name: 'CSII'
   }
 ]
